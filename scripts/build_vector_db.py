@@ -17,4 +17,4 @@ def build_db():
     print("Vector database built successfully.")
 
 if __name__ == "__main__":
-      build_db()
+    build_db()

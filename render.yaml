@@ -1,0 +1,9 @@
+services:
+    - type: web
+      name: code-explainer
+      env: docker
+      dockerfilePath: ./Dockerfile
+      disk:
+        name: chroma
+        mountPath: /app/chroma_db
+        sizeGB: 1

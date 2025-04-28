@@ -1,0 +1,5 @@
+The print() function in Python outputs text to the console. For example, print("hello world") displays "hello world" on the screen.
+  A for loop with range() iterates over a sequence of numbers. For example, 'for i in range(5): print(i)' prints numbers 0 to 4.
+  Defining a function in Python uses the def keyword. For example, 'def greet(name): return f"Hello, {name}"' creates a function that returns a greeting.
+  Lists in Python are mutable sequences. For example, 'my_list = [1, 2, 3]; my_list.append(4)' adds 4 to the list.
+  If statements in Python control flow based on conditions. For example, 'if x > 0: print("Positive")' prints "Positive" if x is greater than 0.
